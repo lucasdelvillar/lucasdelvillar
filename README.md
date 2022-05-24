@@ -1,5 +1,4 @@
 <img src="https://i.imgur.com/GK4RAuo.png" width="100%"> 
-<h3 align="center">A passionate Software Developer from Canada. I love technology and the tools it provides us to solve complex problems. I believe that we can make the world better one line of code at a time.</h3>
 
 <p align="center">
   <a href="https://lucas-delvillar.netlify.app" target="_blank">
@@ -12,6 +11,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>  
 </p>
+
+A passionate Software Developer from Canada. I love technology and the tools it provides us to solve complex problems. I believe that we can make the world better one line of code at a time.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdelvillar" alt="lucasdelvillar" /></a> </p>
 
