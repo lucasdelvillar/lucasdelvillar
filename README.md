@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<img src="[https://i.imgur.com/AvHISwR.png](https://i.imgur.com/GK4RAuo.png)" width="100%"> 
 <h3 align="center">A passionate Software Developer from Canada. I love technology and the tools it provides us to solve complex problems. I believe that we can make the world better one line of code at a time.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdelvillar" alt="lucasdelvillar" /></a> </p>
