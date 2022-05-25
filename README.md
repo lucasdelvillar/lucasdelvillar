@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-I am a full-stack software developer who's passionate about solving real-world problems by using technology in a meaningful way. I believe that we can make the world better one line of code at a time.
+I am a full-stack software developer who's passionate about solving real-world problems, by using technology in a meaningful way. I believe that we can make the world better one line of code at a time.
 
 <!-- 🌱 I’m interested in software development, user experience & accessbility, environmental sustainability, and climate tech. -->
 
