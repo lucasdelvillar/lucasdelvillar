@@ -16,7 +16,7 @@ A passionate Software Developer from Canada. I love technology and the tools it 
 
 See [my website](https://lucas-delvillar.netlify.app) for more information!
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -41,7 +41,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdelvillar" alt="lucasdelvillar" /></a> </p>
 
