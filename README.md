@@ -23,7 +23,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=ADD8E6&style=plastic&logo=css3"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=ADD8E6&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=A7C7E7&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3F00FF&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=00FFFF&style=plastic&logo=react"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=4169E1&style=plastic&logo=python"/>
