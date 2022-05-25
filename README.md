@@ -16,7 +16,7 @@ A passionate Software Developer from Canada. I love technology and the tools it 
 
 See [my website](https://lucas-delvillar.netlify.app) for more information!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&" alt="lucasdelvillar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdelvillar" alt="lucasdelvillar" /></a> </p>
 
