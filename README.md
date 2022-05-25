@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/GK4RAuo.png" width="100%"> 
+<img src="https://i.imgur.com/efhnNVR.png" width="100%"> 
 
 <p align="center">
   <a href="https://lucas-delvillar.netlify.app" target="_blank">
