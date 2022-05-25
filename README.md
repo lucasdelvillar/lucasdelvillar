@@ -31,10 +31,10 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/> -->
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/> -->
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=191970&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=CCCCFF&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=CCCCFF&style=plastic&logo=express"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/> -->
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=CCCCFF&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
 </p>
