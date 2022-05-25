@@ -16,7 +16,7 @@ A passionate Software Developer from Canada. I love technology and the tools it 
 
 See [my website](https://lucas-delvillar.netlify.app) for more information!
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Technologies</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
