@@ -14,9 +14,11 @@
 
 I am a full-stack software developer who's passionate about solving real-world problems by using technology in meaningful ways. I believe that we can make the world better one line of code at a time.
 
+🌱 I’m interested in software development, user experience & accessbility, environmental sustainability, and climate tech.
+
 See [my website](https://lucas-delvillar.netlify.app) for more information!
 
-🌱 I’m interested in software development, user experience & accessbility, environmental sustainability, and climate tech.
+
 
 <h1 align="center">Technologies</h1>
 
