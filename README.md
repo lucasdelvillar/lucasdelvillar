@@ -22,7 +22,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Pokédex</h3>
         <br />
         <a target="_blank" href="https://ld-pokedex.netlify.app">
@@ -42,7 +42,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     </td>
     
   </tr>
-  <td width="25%" align="left">
+  <td width="50%" valign="top">
       <h3 align="center">Maner Barbershop</h3>
         <br />
       <a target="_blank" href="https://ld-mane.netlify.app">
