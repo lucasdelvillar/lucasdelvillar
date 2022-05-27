@@ -38,7 +38,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - A pokédex that give you information on all 900 pokemon! </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - A pokédex that give you information on all 900 pokemon! </p>
     </td>
     
   </tr>
@@ -58,46 +58,46 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS</strong> - Modern barbershop website with responsive webdesign. Simple UI and smooth UX</p>
+        <p><strong>HTML5, CSS3</strong> - Modern barbershop website with responsive webdesign. Simple UI and smooth UX.</p>
     </td>
   
-<!--   <tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">JavaScript Calculator</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://ld-calculator.netlify.app">
+          <img src="https://i.imgur.com/sfjP5az.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/lucasdelvillar/calculator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://ld-calculator.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Calculator made in JavaScript!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://lucas-delvillar.netlify.app">
+          <img src="https://i.imgur.com/4HwGRgr.png" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/lucasdelvillar/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://lucas-delvillar.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio website to showcase my projects to clients</p>
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
