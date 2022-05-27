@@ -22,7 +22,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">Pokédex</h3>
         <br />
         <a target="_blank" href="https://ld-pokedex.netlify.app">
@@ -42,7 +42,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     </td>
     
   </tr>
-  <td width="50%" valign="top">
+  <td width="25%" valign="top">
       <h3 align="center">Maner Barbershop</h3>
         <br />
       <a target="_blank" href="https://ld-mane.netlify.app">
@@ -61,7 +61,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
         <p><strong>HTML, CSS</strong> - Modern barbershop website with responsive webdesign. Simple UI and smooth UX</p>
     </td>
   
-  <tr>
+<!--   <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
       <br />
@@ -97,7 +97,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <h1 align="center">Technologies</h1>
