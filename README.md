@@ -42,6 +42,24 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     </td>
     
   </tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Maner Barbershop</h3>
+        <br />
+      <a target="_blank" href="https://ld-mane.netlify.app">
+            <img src="https://i.imgur.com/N495YW8.png" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/lucasdelvillar/mane" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ld-mane.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
   
 <!--   <tr>
     <td width="50%" valign="top">
