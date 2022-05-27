@@ -42,7 +42,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     </td>
     
   </tr>
-  <td width="25%" valign="top">
+  <td width="25%" align="left">
       <h3 align="center">Maner Barbershop</h3>
         <br />
       <a target="_blank" href="https://ld-mane.netlify.app">
