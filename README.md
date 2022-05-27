@@ -79,7 +79,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Calculator made in JavaScript!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="https://lucas-delvillar.netlify.app">
           <img src="https://i.imgur.com/4HwGRgr.png" width="100%" alt="Matching Cards"/>
