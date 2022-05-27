@@ -41,8 +41,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
         <p><strong>HTML5, CSS3, JavaScript</strong> - A pokédex that give you information on all 900 pokemon! </p>
     </td>
     
-  </tr>
-  <td width="50%" valign="">
+  <td width="50%" valign="top">
       <h3 align="center">Maner Barbershop</h3>
         <br />
       <a target="_blank" href="https://ld-mane.netlify.app">
@@ -60,7 +59,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3</strong> - Modern barbershop website with responsive webdesign. Simple UI and smooth UX.</p>
     </td>
-  
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">JavaScript Calculator</h3>
