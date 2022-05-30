@@ -110,7 +110,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=7393B3&style=plastic&logo=react"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=7393B3&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=CCCCFF&style=plastic&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=CCCCFF&style=plastic&logo=node.js"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/> -->
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
