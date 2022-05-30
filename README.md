@@ -26,16 +26,16 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       <h3 align="center">Pokédex</h3>
         <br />
         <a target="_blank" href="https://ld-pokedex.netlify.app">
-            <img src="https://i.imgur.com/itKqjw3.png" width="100%" alt="Travel App"/>
+            <img src="https://i.imgur.com/itKqjw3.png" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/lucasdelvillar/pokedex" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=7393B3&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://ld-pokedex.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CCCCFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, JavaScript</strong> - A pokédex that give you information on all 900 pokemon! </p>
@@ -45,16 +45,16 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       <h3 align="center">Maner Barbershop</h3>
         <br />
       <a target="_blank" href="https://ld-mane.netlify.app">
-            <img src="https://i.imgur.com/N495YW8.png" width="100%"  alt="Rigley 2"/>
+            <img src="https://i.imgur.com/N495YW8.png" width="100%"  alt="#"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/lucasdelvillar/mane" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=7393B3&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://ld-mane.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CCCCFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3</strong> - Modern barbershop website with responsive webdesign. Simple UI and smooth UX.</p>
@@ -65,15 +65,15 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       <h3 align="center">JavaScript Calculator</h3>
       <br />
         <a target="_blank" href="https://ld-calculator.netlify.app">
-          <img src="https://i.imgur.com/sfjP5az.jpg" width="100%" alt="Portfolio"/>
+          <img src="https://i.imgur.com/sfjP5az.jpg" width="100%" alt="#"/>
         </a>
       <br />
         <p align="center">
   <a href="https://github.com/lucasdelvillar/calculator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=7393B3&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://ld-calculator.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CCCCFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Calculator made in JavaScript!</p>
@@ -82,16 +82,16 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="https://lucas-delvillar.netlify.app">
-          <img src="https://i.imgur.com/4HwGRgr.png" width="100%" alt="Matching Cards"/>
+          <img src="https://i.imgur.com/4HwGRgr.png" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/lucasdelvillar/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=7393B3&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://lucas-delvillar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CCCCFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio website including links to projects and contact info.</p>
