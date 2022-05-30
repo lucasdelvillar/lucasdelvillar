@@ -110,6 +110,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=7393B3&style=plastic&logo=react"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=7393B3&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=CCCCFF&style=plastic&logo=node"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/> -->
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
@@ -119,7 +120,6 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=CCCCFF&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5D3FD3&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=CCCCFF&style=plastic&logo=node"/>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
