@@ -119,7 +119,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=CCCCFF&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5D3FD3&style=plastic&logo=git"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=CCCCFF&style=plastic&logo=node"/>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
