@@ -122,7 +122,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5D3FD3&style=plastic&logo=git"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
+
 
 <!--
 **lucasdelvillar/lucasdelvillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
