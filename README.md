@@ -18,7 +18,7 @@ I am a full-stack software developer who's passionate about solving real-world p
 
 See [my website](https://lucas-delvillar.netlify.app) for more information!
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Project</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
