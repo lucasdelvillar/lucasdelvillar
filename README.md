@@ -61,11 +61,11 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" height="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Coin-Flip</h3>
       <br />
         <a target="_blank" href="https://simple-coin-flip-game.herokuapp.com">
-          <img src="https://i.imgur.com/4dIw7GA.gif" width="100%" alt="#"/>
+          <img src="https://i.imgur.com/4dIw7GA.gif" width="100%" height="50%" alt="#"/>
         </a>
       <br />
         <p align="center">
