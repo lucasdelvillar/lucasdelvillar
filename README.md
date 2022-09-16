@@ -65,7 +65,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
       <h3 align="center">Coin-Flip</h3>
       <br />
         <a target="_blank" href="https://simple-coin-flip-game.herokuapp.com">
-          <img src="https://i.imgur.com/4dIw7GA.gif" height="25%" alt="#"/>
+          <img src="https://i.imgur.com/TqanlST.png" width= "100%" height="25%" alt="#"/>
         </a>
       <br />
         <p align="center">
