@@ -62,21 +62,21 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">JavaScript Calculator</h3>
+      <h3 align="center">Coin-Flip</h3>
       <br />
-        <a target="_blank" href="https://ld-calculator.netlify.app">
-          <img src="https://i.imgur.com/sfjP5az.jpg" width="100%" alt="#"/>
+        <a target="_blank" href="https://simple-coin-flip-game.herokuapp.com">
+          <img src="https://i.imgur.com/4dIw7GA.gif" width="100%" alt="#"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/lucasdelvillar/calculator" target="_blank">
+  <a href="https://github.com/lucasdelvillar/coin-flip" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=7393B3&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://ld-calculator.netlify.app" target="_blank">
+  <a href="https://simple-coin-flip-game.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CCCCFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Calculator made in JavaScript!</p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js</strong> - Coin-Flip Web Game!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
