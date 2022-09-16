@@ -61,7 +61,7 @@ See [my website](https://lucas-delvillar.netlify.app) for more information!
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="50%">
       <h3 align="center">Coin-Flip</h3>
       <br />
         <a target="_blank" href="https://simple-coin-flip-game.herokuapp.com">
